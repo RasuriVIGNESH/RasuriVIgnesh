@@ -19,6 +19,24 @@
 
 ---
 
+### 🛠 Skills
+
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/>
+</div>
+
+---
+
 ### 🚀 Tech Stack & Expertise
 
 - **Backend:** Java, Spring Boot
@@ -54,23 +72,6 @@
 
 ---
 
-### 🛠 Skills
-
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/>
-</div>
-
----
 
 ### 📊 GitHub Stats
 
