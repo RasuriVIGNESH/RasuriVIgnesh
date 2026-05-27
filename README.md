@@ -1,21 +1,21 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RasuriVIGNESH&label=Profile%20views&color=0e75b6&style=flat" alt="RasuriVIGNESH" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ff0000&size=22&lines=Hi!+I'm+Vignesh+👋;Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+React;Open+for+Internships+—+2026" style="width: 100%;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ff0000&size=22&lines=Hey!+I'm+Vignesh+👋;Backend+%7C+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+API+Development" style="width: 100%;">
+<h3 align="center">Java Full Stack Developer · Backend-First · Open for Internships 2026</h3>
 
-<h3 align="center">Backend Developer • Full Stack Engineer • B.Tech Student</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 **B.Tech in Computer Science** at Woxsen University, Hyderabad (2023–2027)
-- 💻 **Backend & Full-Stack Developer** with 1+ year of project experience
-- 🔧 Building **scalable microservices** and **RESTful APIs** with Spring Boot
+- 🔧 Building scalable backends with Spring Boot, Microservices & REST APIs, intigrating AI models.
+- 📚 Currently learning **Cloud Technologies, Linux & DevOps, Agentic Ai with java**
 - 🌐 Strong focus on **backend architecture**, **API development** & **system design**
-- 🚀 Proficient in **Java, Spring Boot, React, MySQL, PostgreSQL & Docker**
-- 📚 Currently learning **Cloud Technologies, Linux & DevOps**
+- 🚀 Proficient in **Java, Spring Boot, spring AI ,React, MySQL, PostgreSQL & Docker**
+- 🚀 3 deployed full-stack projects — [SEWA](https://github.com/RasuriVIGNESH/SEWA) · [QUASAR](https://quasar-8bv.pages.dev/) · [MergeRank](https://mergerank.pages.dev/)
+- 🧠 LeetCode 200+ 
+- 📬 Open for internships — vignesh.rasuri2004@gmail.com
+
 
 ---
 
@@ -32,7 +32,7 @@
 ---
 
 ### 🌱 Currently Learning
-
+- **Agentic AI with java** to build and implement AI in entriprise systems.
 - **Cloud Technologies** (AWS)
 - **Linux** & system administration
 - **DevOps practices** & CI/CD pipelines
@@ -51,8 +51,6 @@
 - 📧 **Email:** vignesh.rasuri2004@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/vignesh-rasuri-004191292  
 - 🧠 **LeetCode:** https://leetcode.com/u/RASURI_VIGNESH  
-- 📸 **Instagram:** https://instagram.com/dev_vig.r  
-- 💬 **Discord:** https://discord.gg/M6FTXpA4  
 
 ---
 
